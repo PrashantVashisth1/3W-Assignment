@@ -1,4 +1,4 @@
-@import "tailwindcss";
+/* @import "tailwindcss";
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -35,4 +35,4 @@
   .badge-error {
     @apply bg-red-100 text-red-800;
   }
-}
+} */
